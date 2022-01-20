@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Olanorw
+- 👀 I’m interested in unity game development.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on nothing right now.
