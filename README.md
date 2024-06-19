@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Olanorw
-- 👀 I’m interested in unity game development.
-- 🌱 I’m currently learning lua.
-- 🔎 I’m looking to collaborate on voicechanger right now.
+- 👀 I’m do unity game development.
+- 🌱 I’m currently learning ASM.
+- 🔎 I’m looking to collaborate on VC1 right now.
