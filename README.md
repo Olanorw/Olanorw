@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Olanorw
 - 👀 I’m do unity game development.
-- 🌱 I’m currently learning ASM.
+- 🌱 I’m currently learning ASM or Assembly.
 - 🔎 I’m looking to collaborate on VC1 right now.
